@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.starmaxdesign.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.starmaxdesign.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.starmaxdesign.com/collections/ultra-black-tiles.atom"/>
+  <title>STARMAXDESIGN</title>
+  <updated>2023-11-13T23:32:58-08:00</updated>
+  <author>
+    <name>STARMAXDESIGN</name>
+  </author>
+  <entry>
+    <id>https://www.starmaxdesign.com/products/8395386880240</id>
+    <published>2023-11-13T23:32:58-08:00</published>
+    <updated>2023-11-13T23:32:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.starmaxdesign.com/products/subta02"/>
+    <title>SUBTA02</title>
+    <s:type></s:type>
+    <s:vendor>STARMAXDESIGN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/1944/0368/files/SUBTA02.jpg?v=1705390505"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>STARMAXDESIGN<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Ultra-black tiles are inherently noble and elegant, with high blackness, good gloss, stronger acid, and alkali resistance, super impact resistance, more saturated appearance, weight guarantees quality, and low water absorption. The appearance generally has polished, matte, and slate effects. The polished series of ultra-black tiles optimize and improve the gloss based on ensuring blackness, and can be used as mirrors. The matte series will have some gentle color textures and a thin layer of glaze on the surface to provide an anti-fouling effect. The purpose of the slate series is to better enrich the decorative nature of the product and make it more product-specific, so we made it to imitate the slate effect.</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><iframe title="Ultra Black Tiles" src="https://www.youtube.com/embed/_KrFapQyd0Q?list=PLm7b9pSG0eYiSbtODVNOmHjdwgi2B1IB5" height="702" width="1248" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0"></iframe></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.starmaxdesign.com/products/8395386880240</id>
+      <title>800*800mm</title>
+      <s:price currency="CNY">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.starmaxdesign.com/products/8395386192112</id>
+    <published>2023-11-13T23:32:27-08:00</published>
+    <updated>2023-11-13T23:32:27-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.starmaxdesign.com/products/subta01"/>
+    <title>SUBTA01</title>
+    <s:type></s:type>
+    <s:vendor>STARMAXDESIGN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/1944/0368/files/SUBTA01.jpg?v=1705390495"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>STARMAXDESIGN<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Ultra-black tiles are inherently noble and elegant, with high blackness, good gloss, stronger acid, and alkali resistance, super impact resistance, more saturated appearance, weight guarantees quality, and low water absorption. The appearance generally has polished, matte, and slate effects. The polished series of ultra-black tiles optimize and improve the gloss based on ensuring blackness, and can be used as mirrors. The matte series will have some gentle color textures and a thin layer of glaze on the surface to provide an anti-fouling effect. The purpose of the slate series is to better enrich the decorative nature of the product and make it more product-specific, so we made it to imitate the slate effect.</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><iframe title="Ultra Black Tiles" src="https://www.youtube.com/embed/_KrFapQyd0Q?list=PLm7b9pSG0eYiSbtODVNOmHjdwgi2B1IB5" height="702" width="1248" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0"></iframe></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.starmaxdesign.com/products/8395386192112</id>
+      <title>600*600mm</title>
+      <s:price currency="CNY">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
