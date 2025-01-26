@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.starmaxdesign.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.starmaxdesign.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.starmaxdesign.com/collections/textured-paper.atom"/>
+  <title>STARMAXDESIGN</title>
+  <updated>2023-11-13T23:45:32-08:00</updated>
+  <author>
+    <name>STARMAXDESIGN</name>
+  </author>
+  <entry>
+    <id>https://www.starmaxdesign.com/products/8395398512880</id>
+    <published>2023-11-13T23:45:32-08:00</published>
+    <updated>2023-11-13T23:45:32-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.starmaxdesign.com/products/stpa01"/>
+    <title>STPA01</title>
+    <s:type></s:type>
+    <s:vendor>STARMAXDESIGN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/1944/0368/files/STPA01.jpg?v=1703063862"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>STARMAXDESIGN<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">As a new decoration material, textured paper has excellent properties such as stretchability,flame retardancy, and anti-aging. It is a new design material that is safe, environmentally friendly, and energy-saving. The textured paper is changeable in color, novel, and unique. It's easy to cut and style and light enough.</p>
+<p data-mce-fragment="1">Textured paper is mainly used to decorate large-scale exhibition booths, layout museums and event venues, create an atmosphere in high-end stores and window displays, etc. It is suitable for various interior decorations such as commercial spaces, hotel spaces, office spaces, catering spaces, and sales offices. Its creative design with lighting can create a good atmosphere in the space.</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><iframe title="Textured Paper" src="https://www.youtube.com/embed/nqt86Q9x6CQ?list=PLm7b9pSG0eYiSbtODVNOmHjdwgi2B1IB5" height="702" width="1248" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0"></iframe></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.starmaxdesign.com/products/8395398512880</id>
+      <title>25000*1200*1mm</title>
+      <s:price currency="CNY">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.starmaxdesign.com/products/8395398512880</id>
+      <title>25000*2400*1mm</title>
+      <s:price currency="CNY">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

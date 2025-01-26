@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.starmaxdesign.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.starmaxdesign.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.starmaxdesign.com/collections/volcanic-marble.atom"/>
+  <title>STARMAXDESIGN</title>
+  <updated>2024-01-16T19:18:55-08:00</updated>
+  <author>
+    <name>STARMAXDESIGN</name>
+  </author>
+  <entry>
+    <id>https://www.starmaxdesign.com/products/8471955931376</id>
+    <published>2024-01-16T19:18:55-08:00</published>
+    <updated>2024-01-16T19:18:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.starmaxdesign.com/products/svma01-%E7%81%AB%E5%B1%B1%E5%B2%A9"/>
+    <title>SVMA01</title>
+    <s:type></s:type>
+    <s:vendor>STARMAXDESIGN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/1944/0368/files/06970b37fe165aa58af4f0d8590c99d7.jpg?v=1705461537"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>STARMAXDESIGN<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>As a new functional environmentally friendly material, volcanic marble is a very precious porous stone formed after volcanic eruptions. It is a rising star in the stone industry and is resistant to weathering, climate, wear, and corrosion. This makes them ideal for use outdoors, in addition to being used in high-humidity environments such as kitchens and bathrooms. They can also provide extra slip resistance when used on building stairs, cycling areas, and even park landscaping. At the same time, the unique natural holes of volcanic marble also provide it with natural sound absorption and noise reduction functions, which is beneficial to improving the hearing environment. It is suitable for stations, subways, high-speed railways, underground projects, and noisy production workshops, squares, hotels, and villas. and other places.</p>
+<p> </p>
+<p><span data-mce-fragment="1"><iframe title="Volcanic Marble" src="https://www.youtube.com/embed/D0i9WP3p5Z0?list=PLm7b9pSG0eYiSbtODVNOmHjdwgi2B1IB5" height="702" width="1248" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0"></iframe></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.starmaxdesign.com/products/8471955931376</id>
+      <title>Default Title</title>
+      <s:price currency="CNY">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

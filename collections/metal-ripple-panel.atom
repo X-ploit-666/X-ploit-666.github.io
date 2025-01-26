@@ -1,0 +1,866 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.starmaxdesign.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.starmaxdesign.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.starmaxdesign.com/collections/metal-ripple-panel.atom"/>
+  <title>STARMAXDESIGN</title>
+  <updated>2024-08-20T00:01:41-07:00</updated>
+  <author>
+    <name>STARMAXDESIGN</name>
+  </author>
+  <entry>
+    <id>https://www.starmaxdesign.com/products/8986754515184</id>
+    <published>2024-08-20T00:01:41-07:00</published>
+    <updated>2024-08-20T00:01:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.starmaxdesign.com/products/smrpa19"/>
+    <title>SMRPA19</title>
+    <s:type></s:type>
+    <s:vendor>STARMAXDESIGN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/1944/0368/files/SMRPA19.jpg?v=1724137245"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>STARMAXDESIGN<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Metal ripple panels are made by stamping specific corrugations on stainless steel sheets. The polished metal corrugated plate has a rippled texture, reflecting various shades of light under the light, which is beautiful. Metal ripple panels are very suitable for laying in large areas. When combined with lighting effects, they can make the entire space transparent and clean, and deepen the sense of spatial hierarchy. Metal ripple panels are widely used in commercial space decoration. They are usually used in suspended ceilings, curtain walls, etc. The specifications, sizes, and patterns can be customized according to the interior decoration style.</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><iframe title="Metal Ripple Panel" src="https://www.youtube.com/embed/uzWuJkFBKKc?list=PLm7b9pSG0eYiSbtODVNOmHjdwgi2B1IB5" height="702" width="1248" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0"></iframe></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.starmaxdesign.com/products/8986754515184</id>
+      <title>0.61*1220*2440mm</title>
+      <s:price currency="CNY">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.starmaxdesign.com/products/8986754515184</id>
+      <title>0.81*1220*2440mm</title>
+      <s:price currency="CNY">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.starmaxdesign.com/products/8986753368304</id>
+    <published>2024-08-20T00:01:29-07:00</published>
+    <updated>2024-08-20T00:01:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.starmaxdesign.com/products/smrpa18"/>
+    <title>SMRPA18</title>
+    <s:type></s:type>
+    <s:vendor>STARMAXDESIGN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/1944/0368/files/SMRPA18.jpg?v=1724137219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>STARMAXDESIGN<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Metal ripple panels are made by stamping specific corrugations on stainless steel sheets. The polished metal corrugated plate has a rippled texture, reflecting various shades of light under the light, which is beautiful. Metal ripple panels are very suitable for laying in large areas. When combined with lighting effects, they can make the entire space transparent and clean, and deepen the sense of spatial hierarchy. Metal ripple panels are widely used in commercial space decoration. They are usually used in suspended ceilings, curtain walls, etc. The specifications, sizes, and patterns can be customized according to the interior decoration style.</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><iframe title="Metal Ripple Panel" src="https://www.youtube.com/embed/uzWuJkFBKKc?list=PLm7b9pSG0eYiSbtODVNOmHjdwgi2B1IB5" height="702" width="1248" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0"></iframe></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.starmaxdesign.com/products/8986753368304</id>
+      <title>0.61*1220*2440mm</title>
+      <s:price currency="CNY">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.starmaxdesign.com/products/8986753368304</id>
+      <title>0.81*1220*2440mm</title>
+      <s:price currency="CNY">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.starmaxdesign.com/products/8986751500528</id>
+    <published>2024-08-20T00:01:28-07:00</published>
+    <updated>2024-08-20T00:01:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.starmaxdesign.com/products/smrpa16-%E5%A4%8D%E5%88%B6"/>
+    <title>SMRPA17</title>
+    <s:type></s:type>
+    <s:vendor>STARMAXDESIGN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/1944/0368/files/SMRPA17.jpg?v=1724137188"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>STARMAXDESIGN<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Metal ripple panels are made by stamping specific corrugations on stainless steel sheets. The polished metal corrugated plate has a rippled texture, reflecting various shades of light under the light, which is beautiful. Metal ripple panels are very suitable for laying in large areas. When combined with lighting effects, they can make the entire space transparent and clean, and deepen the sense of spatial hierarchy. Metal ripple panels are widely used in commercial space decoration. They are usually used in suspended ceilings, curtain walls, etc. The specifications, sizes, and patterns can be customized according to the interior decoration style.</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><iframe title="Metal Ripple Panel" src="https://www.youtube.com/embed/uzWuJkFBKKc?list=PLm7b9pSG0eYiSbtODVNOmHjdwgi2B1IB5" height="702" width="1248" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0"></iframe></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.starmaxdesign.com/products/8986751500528</id>
+      <title>0.61*1220*2440mm</title>
+      <s:price currency="CNY">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.starmaxdesign.com/products/8986751500528</id>
+      <title>0.81*1220*2440mm</title>
+      <s:price currency="CNY">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.starmaxdesign.com/products/8404020691184</id>
+    <published>2024-08-20T00:01:27-07:00</published>
+    <updated>2024-08-20T00:01:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.starmaxdesign.com/products/smrpa16"/>
+    <title>SMRPA16</title>
+    <s:type></s:type>
+    <s:vendor>STARMAXDESIGN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/1944/0368/files/SMRPA16.jpg?v=1724137147"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>STARMAXDESIGN<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Metal ripple panels are made by stamping specific corrugations on stainless steel sheets. The polished metal corrugated plate has a rippled texture, reflecting various shades of light under the light, which is beautiful. Metal ripple panels are very suitable for laying in large areas. When combined with lighting effects, they can make the entire space transparent and clean, and deepen the sense of spatial hierarchy. Metal ripple panels are widely used in commercial space decoration. They are usually used in suspended ceilings, curtain walls, etc. The specifications, sizes, and patterns can be customized according to the interior decoration style.</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><iframe title="Metal Ripple Panel" src="https://www.youtube.com/embed/uzWuJkFBKKc?list=PLm7b9pSG0eYiSbtODVNOmHjdwgi2B1IB5" height="702" width="1248" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0"></iframe></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.starmaxdesign.com/products/8404020691184</id>
+      <title>0.61*1220*2440mm</title>
+      <s:price currency="CNY">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.starmaxdesign.com/products/8404020691184</id>
+      <title>0.81*1220*2440mm</title>
+      <s:price currency="CNY">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.starmaxdesign.com/products/8404020658416</id>
+    <published>2024-08-20T00:01:27-07:00</published>
+    <updated>2024-08-20T00:01:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.starmaxdesign.com/products/smrpa15"/>
+    <title>SMRPA15</title>
+    <s:type></s:type>
+    <s:vendor>STARMAXDESIGN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/1944/0368/files/SMRPA15.jpg?v=1724137123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>STARMAXDESIGN<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Metal ripple panels are made by stamping specific corrugations on stainless steel sheets. The polished metal corrugated plate has a rippled texture, reflecting various shades of light under the light, which is beautiful. Metal ripple panels are very suitable for laying in large areas. When combined with lighting effects, they can make the entire space transparent and clean, and deepen the sense of spatial hierarchy. Metal ripple panels are widely used in commercial space decoration. They are usually used in suspended ceilings, curtain walls, etc. The specifications, sizes, and patterns can be customized according to the interior decoration style.</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><iframe title="Metal Ripple Panel" src="https://www.youtube.com/embed/uzWuJkFBKKc?list=PLm7b9pSG0eYiSbtODVNOmHjdwgi2B1IB5" height="702" width="1248" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0"></iframe></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.starmaxdesign.com/products/8404020658416</id>
+      <title>0.61*1220*2440mm</title>
+      <s:price currency="CNY">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.starmaxdesign.com/products/8404020658416</id>
+      <title>0.81*1220*2440mm</title>
+      <s:price currency="CNY">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.starmaxdesign.com/products/8404020625648</id>
+    <published>2023-11-20T23:19:30-08:00</published>
+    <updated>2023-11-20T23:19:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.starmaxdesign.com/products/smrpa14"/>
+    <title>SMRPA14</title>
+    <s:type></s:type>
+    <s:vendor>STARMAXDESIGN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/1944/0368/files/SMRPA14_00337263-2a21-477d-b2cf-38cf13f4d25d.jpg?v=1724137102"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>STARMAXDESIGN<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Metal ripple panels are made by stamping specific corrugations on stainless steel sheets. The polished metal corrugated plate has a rippled texture, reflecting various shades of light under the light, which is beautiful. Metal ripple panels are very suitable for laying in large areas. When combined with lighting effects, they can make the entire space transparent and clean, and deepen the sense of spatial hierarchy. Metal ripple panels are widely used in commercial space decoration. They are usually used in suspended ceilings, curtain walls, etc. The specifications, sizes, and patterns can be customized according to the interior decoration style.</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><iframe title="Metal Ripple Panel" src="https://www.youtube.com/embed/uzWuJkFBKKc?list=PLm7b9pSG0eYiSbtODVNOmHjdwgi2B1IB5" height="702" width="1248" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0"></iframe></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.starmaxdesign.com/products/8404020625648</id>
+      <title>0.61*1220*2440mm</title>
+      <s:price currency="CNY">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.starmaxdesign.com/products/8404020625648</id>
+      <title>0.81*1220*2440mm</title>
+      <s:price currency="CNY">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.starmaxdesign.com/products/8404020592880</id>
+    <published>2023-11-20T23:19:30-08:00</published>
+    <updated>2023-11-20T23:19:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.starmaxdesign.com/products/smrpa13"/>
+    <title>SMRPA13</title>
+    <s:type></s:type>
+    <s:vendor>STARMAXDESIGN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/1944/0368/files/SMRPA13_0dbbf6ef-0362-4add-86f1-4ebe0a37827f.jpg?v=1724137079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>STARMAXDESIGN<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Metal ripple panels are made by stamping specific corrugations on stainless steel sheets. The polished metal corrugated plate has a rippled texture, reflecting various shades of light under the light, which is beautiful. Metal ripple panels are very suitable for laying in large areas. When combined with lighting effects, they can make the entire space transparent and clean, and deepen the sense of spatial hierarchy. Metal ripple panels are widely used in commercial space decoration. They are usually used in suspended ceilings, curtain walls, etc. The specifications, sizes, and patterns can be customized according to the interior decoration style.</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><iframe title="Metal Ripple Panel" src="https://www.youtube.com/embed/uzWuJkFBKKc?list=PLm7b9pSG0eYiSbtODVNOmHjdwgi2B1IB5" height="702" width="1248" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0"></iframe></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.starmaxdesign.com/products/8404020592880</id>
+      <title>0.61*1220*2440mm</title>
+      <s:price currency="CNY">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.starmaxdesign.com/products/8404020592880</id>
+      <title>0.81*1220*2440mm</title>
+      <s:price currency="CNY">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.starmaxdesign.com/products/8404020560112</id>
+    <published>2023-11-20T23:19:29-08:00</published>
+    <updated>2023-11-20T23:19:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.starmaxdesign.com/products/smrpa12"/>
+    <title>SMRPA12</title>
+    <s:type></s:type>
+    <s:vendor>STARMAXDESIGN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/1944/0368/files/SMRPA12_64060076-ffa5-4e27-9598-078231070db0.jpg?v=1724137054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>STARMAXDESIGN<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Metal ripple panels are made by stamping specific corrugations on stainless steel sheets. The polished metal corrugated plate has a rippled texture, reflecting various shades of light under the light, which is beautiful. Metal ripple panels are very suitable for laying in large areas. When combined with lighting effects, they can make the entire space transparent and clean, and deepen the sense of spatial hierarchy. Metal ripple panels are widely used in commercial space decoration. They are usually used in suspended ceilings, curtain walls, etc. The specifications, sizes, and patterns can be customized according to the interior decoration style.</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><iframe title="Metal Ripple Panel" src="https://www.youtube.com/embed/uzWuJkFBKKc?list=PLm7b9pSG0eYiSbtODVNOmHjdwgi2B1IB5" height="702" width="1248" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0"></iframe></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.starmaxdesign.com/products/8404020560112</id>
+      <title>0.61*1220*2440mm</title>
+      <s:price currency="CNY">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.starmaxdesign.com/products/8404020560112</id>
+      <title>0.81*1220*2440mm</title>
+      <s:price currency="CNY">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.starmaxdesign.com/products/8404020527344</id>
+    <published>2023-11-20T23:19:29-08:00</published>
+    <updated>2023-11-20T23:19:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.starmaxdesign.com/products/smrpa11"/>
+    <title>SMRPA11</title>
+    <s:type></s:type>
+    <s:vendor>STARMAXDESIGN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/1944/0368/files/SMRPA11_0f9bf1f0-a923-4429-9f51-01a9d3ee617b.jpg?v=1724137033"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>STARMAXDESIGN<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Metal ripple panels are made by stamping specific corrugations on stainless steel sheets. The polished metal corrugated plate has a rippled texture, reflecting various shades of light under the light, which is beautiful. Metal ripple panels are very suitable for laying in large areas. When combined with lighting effects, they can make the entire space transparent and clean, and deepen the sense of spatial hierarchy. Metal ripple panels are widely used in commercial space decoration. They are usually used in suspended ceilings, curtain walls, etc. The specifications, sizes, and patterns can be customized according to the interior decoration style.</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><iframe title="Metal Ripple Panel" src="https://www.youtube.com/embed/uzWuJkFBKKc?list=PLm7b9pSG0eYiSbtODVNOmHjdwgi2B1IB5" height="702" width="1248" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0"></iframe></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.starmaxdesign.com/products/8404020527344</id>
+      <title>0.61*1220*2440mm</title>
+      <s:price currency="CNY">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.starmaxdesign.com/products/8404020527344</id>
+      <title>0.81*1220*2440mm</title>
+      <s:price currency="CNY">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.starmaxdesign.com/products/8404020494576</id>
+    <published>2023-11-20T23:19:28-08:00</published>
+    <updated>2023-11-20T23:19:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.starmaxdesign.com/products/smrpa10"/>
+    <title>SMRPA10</title>
+    <s:type></s:type>
+    <s:vendor>STARMAXDESIGN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/1944/0368/files/SMRPA10_996f0aa4-8a9f-4748-8de1-9b36ddd32167.jpg?v=1724137007"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>STARMAXDESIGN<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Metal ripple panels are made by stamping specific corrugations on stainless steel sheets. The polished metal corrugated plate has a rippled texture, reflecting various shades of light under the light, which is beautiful. Metal ripple panels are very suitable for laying in large areas. When combined with lighting effects, they can make the entire space transparent and clean, and deepen the sense of spatial hierarchy. Metal ripple panels are widely used in commercial space decoration. They are usually used in suspended ceilings, curtain walls, etc. The specifications, sizes, and patterns can be customized according to the interior decoration style.</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><iframe title="Metal Ripple Panel" src="https://www.youtube.com/embed/uzWuJkFBKKc?list=PLm7b9pSG0eYiSbtODVNOmHjdwgi2B1IB5" height="702" width="1248" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0"></iframe></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.starmaxdesign.com/products/8404020494576</id>
+      <title>0.61*1220*2440mm</title>
+      <s:price currency="CNY">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.starmaxdesign.com/products/8404020494576</id>
+      <title>0.81*1220*2440mm</title>
+      <s:price currency="CNY">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.starmaxdesign.com/products/8404020461808</id>
+    <published>2023-11-20T23:19:28-08:00</published>
+    <updated>2023-11-20T23:19:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.starmaxdesign.com/products/smrpa9"/>
+    <title>SMRPA09</title>
+    <s:type></s:type>
+    <s:vendor>STARMAXDESIGN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/1944/0368/files/SMRPA09_a28a78e6-75db-4e6f-9820-b5d64f6d9dc5.jpg?v=1724136973"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>STARMAXDESIGN<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Metal ripple panels are made by stamping specific corrugations on stainless steel sheets. The polished metal corrugated plate has a rippled texture, reflecting various shades of light under the light, which is beautiful. Metal ripple panels are very suitable for laying in large areas. When combined with lighting effects, they can make the entire space transparent and clean, and deepen the sense of spatial hierarchy. Metal ripple panels are widely used in commercial space decoration. They are usually used in suspended ceilings, curtain walls, etc. The specifications, sizes, and patterns can be customized according to the interior decoration style.</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><iframe title="Metal Ripple Panel" src="https://www.youtube.com/embed/uzWuJkFBKKc?list=PLm7b9pSG0eYiSbtODVNOmHjdwgi2B1IB5" height="702" width="1248" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0"></iframe></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.starmaxdesign.com/products/8404020461808</id>
+      <title>0.61*1220*2440mm</title>
+      <s:price currency="CNY">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.starmaxdesign.com/products/8404020461808</id>
+      <title>0.81*1220*2440mm</title>
+      <s:price currency="CNY">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.starmaxdesign.com/products/8404020429040</id>
+    <published>2023-11-20T23:19:27-08:00</published>
+    <updated>2023-11-20T23:19:27-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.starmaxdesign.com/products/smrpa8"/>
+    <title>SMRPA08</title>
+    <s:type></s:type>
+    <s:vendor>STARMAXDESIGN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/1944/0368/files/SMRPA08_7924a30a-4011-4797-8488-74a23dccf710.jpg?v=1724136951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>STARMAXDESIGN<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Metal ripple panels are made by stamping specific corrugations on stainless steel sheets. The polished metal corrugated plate has a rippled texture, reflecting various shades of light under the light, which is beautiful. Metal ripple panels are very suitable for laying in large areas. When combined with lighting effects, they can make the entire space transparent and clean, and deepen the sense of spatial hierarchy. Metal ripple panels are widely used in commercial space decoration. They are usually used in suspended ceilings, curtain walls, etc. The specifications, sizes, and patterns can be customized according to the interior decoration style.</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><iframe title="Metal Ripple Panel" src="https://www.youtube.com/embed/uzWuJkFBKKc?list=PLm7b9pSG0eYiSbtODVNOmHjdwgi2B1IB5" height="702" width="1248" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0"></iframe></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.starmaxdesign.com/products/8404020429040</id>
+      <title>0.61*1220*2440mm</title>
+      <s:price currency="CNY">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.starmaxdesign.com/products/8404020429040</id>
+      <title>0.81*1220*2440mm</title>
+      <s:price currency="CNY">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.starmaxdesign.com/products/8404020396272</id>
+    <published>2023-11-20T23:19:27-08:00</published>
+    <updated>2023-11-20T23:19:27-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.starmaxdesign.com/products/smrpa7"/>
+    <title>SMRPA07</title>
+    <s:type></s:type>
+    <s:vendor>STARMAXDESIGN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/1944/0368/files/SMRPA07_d46151b3-a6d2-432b-aa46-cd54759a1b3a.jpg?v=1724136922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>STARMAXDESIGN<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Metal ripple panels are made by stamping specific corrugations on stainless steel sheets. The polished metal corrugated plate has a rippled texture, reflecting various shades of light under the light, which is beautiful. Metal ripple panels are very suitable for laying in large areas. When combined with lighting effects, they can make the entire space transparent and clean, and deepen the sense of spatial hierarchy. Metal ripple panels are widely used in commercial space decoration. They are usually used in suspended ceilings, curtain walls, etc. The specifications, sizes, and patterns can be customized according to the interior decoration style.</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><iframe title="Metal Ripple Panel" src="https://www.youtube.com/embed/uzWuJkFBKKc?list=PLm7b9pSG0eYiSbtODVNOmHjdwgi2B1IB5" height="702" width="1248" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0"></iframe></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.starmaxdesign.com/products/8404020396272</id>
+      <title>0.61*1220*2440mm</title>
+      <s:price currency="CNY">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.starmaxdesign.com/products/8404020396272</id>
+      <title>0.81*1220*2440mm</title>
+      <s:price currency="CNY">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.starmaxdesign.com/products/8404020363504</id>
+    <published>2023-11-20T23:19:26-08:00</published>
+    <updated>2023-11-20T23:19:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.starmaxdesign.com/products/smrpa6"/>
+    <title>SMRPA06</title>
+    <s:type></s:type>
+    <s:vendor>STARMAXDESIGN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/1944/0368/files/SMRPA06_c9cd4bbb-8c43-44be-b52f-42f26dca0c68.jpg?v=1724136897"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>STARMAXDESIGN<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Metal ripple panels are made by stamping specific corrugations on stainless steel sheets. The polished metal corrugated plate has a rippled texture, reflecting various shades of light under the light, which is beautiful. Metal ripple panels are very suitable for laying in large areas. When combined with lighting effects, they can make the entire space transparent and clean, and deepen the sense of spatial hierarchy. Metal ripple panels are widely used in commercial space decoration. They are usually used in suspended ceilings, curtain walls, etc. The specifications, sizes, and patterns can be customized according to the interior decoration style.</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><iframe title="Metal Ripple Panel" src="https://www.youtube.com/embed/uzWuJkFBKKc?list=PLm7b9pSG0eYiSbtODVNOmHjdwgi2B1IB5" height="702" width="1248" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0"></iframe></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.starmaxdesign.com/products/8404020363504</id>
+      <title>0.61*1220*2440mm</title>
+      <s:price currency="CNY">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.starmaxdesign.com/products/8404020363504</id>
+      <title>0.81*1220*2440mm</title>
+      <s:price currency="CNY">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.starmaxdesign.com/products/8404020330736</id>
+    <published>2023-11-20T23:19:26-08:00</published>
+    <updated>2023-11-20T23:19:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.starmaxdesign.com/products/smrpa05"/>
+    <title>SMRPA05</title>
+    <s:type></s:type>
+    <s:vendor>STARMAXDESIGN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/1944/0368/files/SMRPA05_7aa8ddb1-1a48-4299-b3eb-16e62f1fb6ee.jpg?v=1724136873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>STARMAXDESIGN<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Metal ripple panels are made by stamping specific corrugations on stainless steel sheets. The polished metal corrugated plate has a rippled texture, reflecting various shades of light under the light, which is beautiful. Metal ripple panels are very suitable for laying in large areas. When combined with lighting effects, they can make the entire space transparent and clean, and deepen the sense of spatial hierarchy. Metal ripple panels are widely used in commercial space decoration. They are usually used in suspended ceilings, curtain walls, etc. The specifications, sizes, and patterns can be customized according to the interior decoration style.</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><iframe title="Metal Ripple Panel" src="https://www.youtube.com/embed/uzWuJkFBKKc?list=PLm7b9pSG0eYiSbtODVNOmHjdwgi2B1IB5" height="702" width="1248" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0"></iframe></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.starmaxdesign.com/products/8404020330736</id>
+      <title>0.61*1220*2440mm</title>
+      <s:price currency="CNY">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.starmaxdesign.com/products/8404020330736</id>
+      <title>0.81*1220*2440mm</title>
+      <s:price currency="CNY">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.starmaxdesign.com/products/8404020297968</id>
+    <published>2023-11-20T23:19:25-08:00</published>
+    <updated>2023-11-20T23:19:25-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.starmaxdesign.com/products/smrpa04"/>
+    <title>SMRPA04</title>
+    <s:type></s:type>
+    <s:vendor>STARMAXDESIGN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/1944/0368/files/SMRPA04_ac956f00-f2b4-412d-b7c6-acf7cbd34fe5.jpg?v=1724136815"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>STARMAXDESIGN<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Metal ripple panels are made by stamping specific corrugations on stainless steel sheets. The polished metal corrugated plate has a rippled texture, reflecting various shades of light under the light, which is beautiful. Metal ripple panels are very suitable for laying in large areas. When combined with lighting effects, they can make the entire space transparent and clean, and deepen the sense of spatial hierarchy. Metal ripple panels are widely used in commercial space decoration. They are usually used in suspended ceilings, curtain walls, etc. The specifications, sizes, and patterns can be customized according to the interior decoration style.</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><iframe title="Metal Ripple Panel" src="https://www.youtube.com/embed/uzWuJkFBKKc?list=PLm7b9pSG0eYiSbtODVNOmHjdwgi2B1IB5" height="702" width="1248" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0"></iframe></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.starmaxdesign.com/products/8404020297968</id>
+      <title>0.61*1220*2440mm</title>
+      <s:price currency="CNY">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.starmaxdesign.com/products/8404020297968</id>
+      <title>0.81*1220*2440mm</title>
+      <s:price currency="CNY">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.starmaxdesign.com/products/8404020265200</id>
+    <published>2023-11-20T23:19:25-08:00</published>
+    <updated>2023-11-20T23:19:25-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.starmaxdesign.com/products/smrpa03"/>
+    <title>SMRPA03</title>
+    <s:type></s:type>
+    <s:vendor>STARMAXDESIGN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/1944/0368/files/SMRPA03_31c4dff1-c25a-42ac-8bb6-439b42aefb69.jpg?v=1724136768"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>STARMAXDESIGN<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Metal ripple panels are made by stamping specific corrugations on stainless steel sheets. The polished metal corrugated plate has a rippled texture, reflecting various shades of light under the light, which is beautiful. Metal ripple panels are very suitable for laying in large areas. When combined with lighting effects, they can make the entire space transparent and clean, and deepen the sense of spatial hierarchy. Metal ripple panels are widely used in commercial space decoration. They are usually used in suspended ceilings, curtain walls, etc. The specifications, sizes, and patterns can be customized according to the interior decoration style.</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><iframe title="Metal Ripple Panel" src="https://www.youtube.com/embed/uzWuJkFBKKc?list=PLm7b9pSG0eYiSbtODVNOmHjdwgi2B1IB5" height="702" width="1248" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0"></iframe></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.starmaxdesign.com/products/8404020265200</id>
+      <title>0.61*1220*2440mm</title>
+      <s:price currency="CNY">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.starmaxdesign.com/products/8404020265200</id>
+      <title>0.81*1220*2440mm</title>
+      <s:price currency="CNY">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.starmaxdesign.com/products/8404020232432</id>
+    <published>2023-11-20T23:19:24-08:00</published>
+    <updated>2023-11-20T23:19:24-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.starmaxdesign.com/products/smrpa02"/>
+    <title>SMRPA02</title>
+    <s:type></s:type>
+    <s:vendor>STARMAXDESIGN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/1944/0368/files/SMRPA02_9881eb8f-fe38-42fb-9232-573f85cb23af.jpg?v=1724136707"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>STARMAXDESIGN<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Metal ripple panels are made by stamping specific corrugations on stainless steel sheets. The polished metal corrugated plate has a rippled texture, reflecting various shades of light under the light, which is beautiful. Metal ripple panels are very suitable for laying in large areas. When combined with lighting effects, they can make the entire space transparent and clean, and deepen the sense of spatial hierarchy. Metal ripple panels are widely used in commercial space decoration. They are usually used in suspended ceilings, curtain walls, etc. The specifications, sizes, and patterns can be customized according to the interior decoration style.</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><iframe title="Metal Ripple Panel" src="https://www.youtube.com/embed/uzWuJkFBKKc?list=PLm7b9pSG0eYiSbtODVNOmHjdwgi2B1IB5" height="702" width="1248" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0"></iframe></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.starmaxdesign.com/products/8404020232432</id>
+      <title>0.61*1220*2440mm</title>
+      <s:price currency="CNY">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.starmaxdesign.com/products/8404020232432</id>
+      <title>0.81*1220*2440mm</title>
+      <s:price currency="CNY">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.starmaxdesign.com/products/8395416305904</id>
+    <published>2023-11-14T00:06:17-08:00</published>
+    <updated>2023-11-14T00:06:17-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.starmaxdesign.com/products/smrpa01"/>
+    <title>SMRPA01</title>
+    <s:type></s:type>
+    <s:vendor>STARMAXDESIGN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/1944/0368/files/SMRPA01_a7504e4c-827e-4bb0-816f-91eb1f86b7b6.jpg?v=1724136569"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>STARMAXDESIGN<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Metal ripple panels are made by stamping specific corrugations on stainless steel sheets. The polished metal corrugated plate has a rippled texture, reflecting various shades of light under the light, which is beautiful. Metal ripple panels are very suitable for laying in large areas. When combined with lighting effects, they can make the entire space transparent and clean, and deepen the sense of spatial hierarchy. Metal ripple panels are widely used in commercial space decoration. They are usually used in suspended ceilings, curtain walls, etc. The specifications, sizes, and patterns can be customized according to the interior decoration style.</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><iframe title="Metal Ripple Panel" src="https://www.youtube.com/embed/uzWuJkFBKKc?list=PLm7b9pSG0eYiSbtODVNOmHjdwgi2B1IB5" height="702" width="1248" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0"></iframe></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.starmaxdesign.com/products/8395416305904</id>
+      <title>0.61*1220*2440mm</title>
+      <s:price currency="CNY">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.starmaxdesign.com/products/8395416305904</id>
+      <title>0.81*1220*2440mm</title>
+      <s:price currency="CNY">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

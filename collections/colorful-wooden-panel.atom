@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.starmaxdesign.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.starmaxdesign.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.starmaxdesign.com/collections/colorful-wooden-panel.atom"/>
+  <title>STARMAXDESIGN</title>
+  <updated>2024-01-12T18:16:30-08:00</updated>
+  <author>
+    <name>STARMAXDESIGN</name>
+  </author>
+  <entry>
+    <id>https://www.starmaxdesign.com/products/8468820426992</id>
+    <published>2024-01-12T18:16:30-08:00</published>
+    <updated>2024-01-12T18:16:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.starmaxdesign.com/products/scwpa01%E5%BD%A9%E8%89%B2%E6%9C%A8%E8%89%BA%E6%9D%BF"/>
+    <title>SCWPA01</title>
+    <s:type></s:type>
+    <s:vendor>STARMAXDESIGN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/1944/0368/files/b9f5eb4041845946af8b264069d59b0d.jpg?v=1705112192"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>STARMAXDESIGN<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Colorful wooden panels are made of high-quality solid wood as raw materials and are made through fine cutting, painting, and drying. Through special staining and painting processes, the Colorful wooden panels' surface is brilliant. Finally, after drying and polishing, the colored surface is smooth and delicate with outstanding texture. Its biggest feature is that the surface is bright and bright, the color is uniform and full, and it has the texture of natural wood grain. At the same time, the material has the advantages of light texture, high strength, wear resistance, and not being easy to deform. The styles of Colorful wooden panels are rich and diverse, which can meet the needs of different interior styles and add unique decorative effects to the space.</p>
+<p> </p>
+<p><span data-mce-fragment="1"><iframe title="Colorful Wooden Panel" src="https://www.youtube.com/embed/UJa7fV5n4_w?list=PLm7b9pSG0eYiSbtODVNOmHjdwgi2B1IB5" height="702" width="1248" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0"></iframe></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.starmaxdesign.com/products/8468820426992</id>
+      <title>Default Title</title>
+      <s:price currency="CNY">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.starmaxdesign.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.starmaxdesign.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.starmaxdesign.com/collections/aluminum-foam.atom"/>
+  <title>STARMAXDESIGN</title>
+  <updated>2023-11-20T23:21:46-08:00</updated>
+  <author>
+    <name>STARMAXDESIGN</name>
+  </author>
+  <entry>
+    <id>https://www.starmaxdesign.com/products/8404025639152</id>
+    <published>2023-11-20T23:21:46-08:00</published>
+    <updated>2023-11-20T23:21:46-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.starmaxdesign.com/products/safa03"/>
+    <title>SAFA03</title>
+    <s:type></s:type>
+    <s:vendor>STARMAXDESIGN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/1944/0368/files/SAFA03.jpg?v=1704851789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>STARMAXDESIGN<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Aluminum foam is an innovative building material that is redefining construction as we know it. This remarkable material combines the strength of aluminum with the lightness of foam, with exceptional impact resistance and shock absorption, making it a versatile and environmentally friendly building material.</p>
+<p data-mce-fragment="1">Aluminum foam has single-sided open pores, double-sided open pores, closed pores, large pores, medium pores, small pores and natural casting surfaces. In addition to the surface effect, aluminum foam also has a high degree of freedom in color selection. Not only can it be painted in a variety of colors, but it can also be colored by itself. What makes it even more unique is its excellent energy absorption capabilities, making aluminum foam the perfect choice for impact-resistant structural and acoustic projects.</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><iframe title="Aluminum Foam" src="https://www.youtube.com/embed/iopVlLWCGXc?list=PLm7b9pSG0eYiSbtODVNOmHjdwgi2B1IB5" height="702" width="1248" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0"></iframe></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.starmaxdesign.com/products/8404025639152</id>
+      <title>2000x1000mm</title>
+      <s:price currency="CNY">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.starmaxdesign.com/products/8404025606384</id>
+    <published>2023-11-20T23:21:45-08:00</published>
+    <updated>2023-11-20T23:21:45-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.starmaxdesign.com/products/safa02"/>
+    <title>SAFA02</title>
+    <s:type></s:type>
+    <s:vendor>STARMAXDESIGN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/1944/0368/files/SAFA02.jpg?v=1704851770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>STARMAXDESIGN<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Aluminum foam is an innovative building material that is redefining construction as we know it. This remarkable material combines the strength of aluminum with the lightness of foam, with exceptional impact resistance and shock absorption, making it a versatile and environmentally friendly building material.</p>
+<p data-mce-fragment="1">Aluminum foam has single-sided open pores, double-sided open pores, closed pores, large pores, medium pores, small pores and natural casting surfaces. In addition to the surface effect, aluminum foam also has a high degree of freedom in color selection. Not only can it be painted in a variety of colors, but it can also be colored by itself. What makes it even more unique is its excellent energy absorption capabilities, making aluminum foam the perfect choice for impact-resistant structural and acoustic projects.</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><iframe title="Aluminum Foam" src="https://www.youtube.com/embed/iopVlLWCGXc?list=PLm7b9pSG0eYiSbtODVNOmHjdwgi2B1IB5" height="702" width="1248" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0"></iframe></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.starmaxdesign.com/products/8404025606384</id>
+      <title>2000x1000mm</title>
+      <s:price currency="CNY">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.starmaxdesign.com/products/8395416568048</id>
+    <published>2023-11-14T00:08:47-08:00</published>
+    <updated>2023-11-14T00:08:47-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.starmaxdesign.com/products/safa01"/>
+    <title>SAFA01</title>
+    <s:type></s:type>
+    <s:vendor>STARMAXDESIGN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/1944/0368/files/SAFA01.jpg?v=1704851734"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>STARMAXDESIGN<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Aluminum foam is an innovative building material that is redefining construction as we know it. This remarkable material combines the strength of aluminum with the lightness of foam, with exceptional impact resistance and shock absorption, making it a versatile and environmentally friendly building material.</p>
+<p data-mce-fragment="1">Aluminum foam has single-sided open pores, double-sided open pores, closed pores, large pores, medium pores, small pores and natural casting surfaces. In addition to the surface effect, aluminum foam also has a high degree of freedom in color selection. Not only can it be painted in a variety of colors, but it can also be colored by itself. What makes it even more unique is its excellent energy absorption capabilities, making aluminum foam the perfect choice for impact-resistant structural and acoustic projects.</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><iframe title="Aluminum Foam" src="https://www.youtube.com/embed/iopVlLWCGXc?list=PLm7b9pSG0eYiSbtODVNOmHjdwgi2B1IB5" height="702" width="1248" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0"></iframe></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.starmaxdesign.com/products/8395416568048</id>
+      <title>2000x1000mm</title>
+      <s:price currency="CNY">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
