@@ -2,7 +2,7 @@ import os
 from bs4 import BeautifulSoup
 
 # Define the target directory
-target_directory = '/tmp/BattleField/Panel-Pix/www.panel-pix.com'
+target_directory = '.'
 
 # Define the links to search for
 links_to_find = [
