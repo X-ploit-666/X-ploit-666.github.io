@@ -6,13 +6,12 @@ def replace_footer_content(file_path):
     # Read the content of the file
     with open(file_path, 'r', encoding='utf-8') as file:
         content = file.read()
-    print('FILENAME:',file_path.split('/')[-1].upper().split('.')[0])
-    filen=file_path.split('/')[-1].upper().split('.')[0] 
+    #print('FILENAME:',file_path.split('/')[-1].upper().split('.')[0])
+    #filen=file_path.split('/')[-1].upper().split('.')[0] 
 
     # Regex pattern to find <div> elements with class 'footer-block__details-content rte'
-    _=14
-    pattern = r'%s'%(filen)+'.jpg'
-    vvar='%s'%(filen)+'_1000x'+'.jpg'
+    pattern = r'Shopify'
+    vvar='panel-pix'
     modified_content = re.sub(pattern, vvar, content, flags=re.DOTALL)
     with open(file_path, 'w', encoding='utf-8') as file:
         file.write(modified_content) 
